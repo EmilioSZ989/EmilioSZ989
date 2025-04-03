@@ -53,7 +53,7 @@ Apasionado por el desarrollo de software robusto y escalable, con enfoque en arq
 
 ## 🤝 Conectemos
 
-📧 **Email:** emiliosz1708@gmail.com 
+📧 **Email:** emiliosz1708@gmail.com
 📱 **Teléfono:** +57 310 6369745  
 💼 **LinkedIn:** [linkedin.com/in/julianemiliosuazaperez](https://www.linkedin.com/in/julianemiliosuazaperez)  
 🐦 **GitHub:** [github.com/EmilioSZ989](https://github.com/EmilioSZ989)
