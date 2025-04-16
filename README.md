@@ -19,7 +19,7 @@ Apasionado por el desarrollo de software robusto y escalable, con enfoque en arq
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗃️ Bases de Datos
+### 📃 Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -32,11 +32,20 @@ Apasionado por el desarrollo de software robusto y escalable, con enfoque en arq
 
 ## 📂 Proyectos Destacados
 
-🔜 **Próximamente** - Estoy trabajando en proyectos backend desafiantes para demostrar mis habilidades. ¡Mantente atento!
+### 🎮 [Pokédex Pixel Art](https://github.com/EmilioSZ989/pokedex-app)
+
+Aplicación web tipo Pokédex con diseño pixel-art retro estilo Game Boy. Permite buscar Pokémon, ver estadísticas en gráficos y explorar sus evoluciones usando la PokéAPI.
+
+![demo](https://raw.githubusercontent.com/EmilioSZ989/pokedex-app/master/demo.gif)
+
+- **Tecnologías:** Vite · JavaScript ES6 · Chart.js · HTML5 · CSS3
+- **API:** PokéAPI REST
+- **Deploy:** GitHub Pages — [Ver Demo](https://emiliosz989.github.io/pokedex-app/)
+- **Lo que aprendí:** Consumo de APIs públicas, renderizado dinámico con JS, visualización de datos, navegación entre componentes sin frameworks.
 
 ---
 
-## 📚 Formación Académica
+## 📅 Formación Académica
 
 - **Ingeniería Informática** - Universidad de Caldas (2022 - Presente)
 - **Diplomado en Programación con Énfasis en Aplicaciones Web** - Universidad de Caldas (2022)
@@ -44,7 +53,13 @@ Apasionado por el desarrollo de software robusto y escalable, con enfoque en arq
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🌍 Idiomas
+![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=for-the-badge)
+![Inglés](https://img.shields.io/badge/Inglés-Básico%20(en%20progreso)-orange?style=for-the-badge)
+
+---
+
+## 📊 Estadísticas de GitHub
 
 [![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=EmilioSZ989&show_icons=true&theme=radical)](https://github.com/EmilioSZ989)
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioSZ989&layout=compact&theme=radical)](https://github.com/EmilioSZ989)
@@ -53,11 +68,12 @@ Apasionado por el desarrollo de software robusto y escalable, con enfoque en arq
 
 ## 🤝 Conectemos
 
-📧 **Email:** emiliosz1708@gmail.com
-📱 **Teléfono:** +57 310 6369745  
+📧 **Email:** emiliosz1708@gmail.com  
+📞 **Teléfono:** +57 310 6369745  
 💼 **LinkedIn:** [linkedin.com/in/julianemiliosuazaperez](https://www.linkedin.com/in/julianemiliosuazaperez)  
 🐦 **GitHub:** [github.com/EmilioSZ989](https://github.com/EmilioSZ989)
 
 ---
 
-⭐ **"El software es un gran combinación entre arte e ingeniería"** - Bill Gates
+🌟 **"El software es una gran combinación entre arte e ingeniería"** - Bill Gates
+
